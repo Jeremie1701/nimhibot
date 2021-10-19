@@ -1,0 +1,12 @@
+{
+  "token": "ODk0NTc0NzkwNTk2MjU5ODUw.YVr_sg.wNHZJsPTRX9S0FLkqS_rXruRZzc",
+  "prefix": "..",
+  "ksoftapi": "NEEDED_FOR_LYRICS",
+  "youtubeCookie": "VISITOR_INFO1_LIVE=gUK7KmF2ddk; __Secure-3PSID=CwjWZ4ilJJcaE4KtSulfBBBLYRRBa0pk-VhunGDdR3JIHE9Lbc6CM_cpqFqIC1aaYFuECQ.; __Secure-3PAPISID=qiX1KeTTwbS1QG_Q/A5aotzeDm2Ol6a4An; LOGIN_INFO=AFmmF2swRAIgEJS8DqXAqh-tB3tKburPhbLs3NCMMdkEvcsly54opEsCIC6iuEfntw7TPo5syhoJ6_8xy7L4VaIVeTvlWiH4SBqI:QUQ3MjNmeUgtTW5KRndLRGFYOC1XTEVrcUdTSmZYaFZkS3owQlNseHVtVnp0cHlDZE1Pek11YmJNcVA2NHVtOWFIS01mNW1Rb2hHLVBqQkx1eGs2Zkg5ZFE5QUZoTlNMWV8zNzY0bDRFaFJCWEFOTXZ5dGtQVGw5NWNCSFh6T2pfUmdVRENWMWxCMzJSVjUxUmFiRHhfT0VaWXREVmZZX1p3; PREF=f4=4000000&tz=Asia.Bangkok&f6=400; YSC=5Ss-_js0DU0; __Secure-3PSIDCC=AJi4QfFqUzFRry66enefQKa_Og5VOl6g-4Prgs8ZulCFZ7NSbmfjBT-DQuWc5-g6kmxoFK6v; useragent=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk0LjAuNDYwNi44MSBTYWZhcmkvNTM3LjM2IEVkZy85NC4wLjk5Mi41MA%3D%3D; _uafec=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F94.0.4606.81%20Safari%2F537.36%20Edg%2F94.0.992.50; ",
+  "spotify_api": {
+        "enabled": false, "_COMMENT_": "Set it to false, if you want to scrape, when on true you can get spotify playlists with 100+ Tracks",
+        "clientSecret": "da2b5b9c32ee4126a6db8c5cd069b0b4",
+        "clientId": "6cdeeb0f65fe426ea3ba25c396534cf7"
+  },
+  "loadSlashsGlobal": true, "_COMMENT_": "Đặt nó thành true, khi Lệnh Slash của bạn đã sẵn sàng, tải false ngay lập tức tải true tải chậm nhưng ổn định! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)"
+}
